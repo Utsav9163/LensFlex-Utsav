@@ -68,3 +68,17 @@ This is my Third independent project creating a Responsive Photograpghy Portfoli
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](/issues).
 
+# 📝 License
+(c) [UTSAV](https://github.com/Utsav9163) 
+
+<h5 align="center">Connect with me!</h5>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/utsav-kumar-gupta-3986a228a" target="_blank">LinkedIn</a>
+  </p>
+
+   <p align="center">
+    <a href="https://www.instagram.com/___.unconscious.___" target="_blank">Instagram</a>
+  </p>
+ 
+
