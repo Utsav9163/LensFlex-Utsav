@@ -28,4 +28,5 @@ This is a sample project of creating a Photography Portfolio website that is for
 ![LensFlex_bg7](https://github.com/user-attachments/assets/973fcd72-1ad2-463a-b263-89acef68e4ee)
 
 ## Blog Tab -
-![LensFlex_bg7](https://github.com/user-attachments/assets/973fcd72-1ad2-463a-b263-89acef68e4ee)
+![Screenshot 2024-10-18 195942](https://github.com/user-attachments/assets/ac780d8d-7a69-453b-8e1f-bc8c564a5081)
+
