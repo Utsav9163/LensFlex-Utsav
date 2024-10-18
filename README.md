@@ -32,3 +32,8 @@ This is a sample project of creating a Photography Portfolio website that is for
 
 ## Contact us -
 ![LensFlex_bg8](https://github.com/user-attachments/assets/9941e404-c867-481d-8d7b-8d1bb7181f1f)
+
+
+
+<br>
+It consists of sections like home, about, gallery, blog, contact, finally about the Portfolio website and the pictures uploaded in G-drive followed by quick links of the page and social media links of the Person.
