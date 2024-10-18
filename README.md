@@ -63,3 +63,8 @@ or
 * JAVASCRIPT
 
 This is my Third independent project creating a Responsive Photograpghy Portfolio Website using HTML, CSS and Javascript.
+
+# 🤝 Contributing 
+
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](/issues).
+
