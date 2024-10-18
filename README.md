@@ -41,3 +41,5 @@ It consists of sections like home, about, gallery, blog, contact, finally about 
 * A header section with the logo and navbar.
 * A Landing page.
 * An About section.
+* A view more tab followed by a G-drive Link where all the images are uploaded.
+* A mailing list subscribtion section.
