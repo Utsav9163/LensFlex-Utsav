@@ -45,3 +45,4 @@ It consists of sections like home, about, gallery, blog, contact, finally about 
 * A mailing list subscribtion section.
 * A gallery,blog and a contact section followed by quick links of all the social media handles.
 * A footer section.
+* Developed first with the Mobile First methodology, then for desktop.
