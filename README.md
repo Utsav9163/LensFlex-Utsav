@@ -43,3 +43,5 @@ It consists of sections like home, about, gallery, blog, contact, finally about 
 * An About section.
 * A view more tab followed by a G-drive Link where all the images are uploaded.
 * A mailing list subscribtion section.
+* A gallery,blog and a contact section followed by quick links of all the social media handles.
+* A footer section.
