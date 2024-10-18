@@ -10,3 +10,4 @@ This is a sample project of creating a Photography Portfolio website that is for
 
 # How it looks 📷
 
+![LensFlex_bg1](https://github.com/user-attachments/assets/d661f0e3-6ee8-4b83-a076-31d6c0cc8612)
