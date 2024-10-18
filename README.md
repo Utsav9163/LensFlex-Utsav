@@ -37,3 +37,6 @@ This is a sample project of creating a Photography Portfolio website that is for
 
 <br>
 It consists of sections like home, about, gallery, blog, contact, finally about the Portfolio website and the pictures uploaded in G-drive followed by quick links of the page and social media links of the Person.
+
+* A header section with the logo and navbar.
+
