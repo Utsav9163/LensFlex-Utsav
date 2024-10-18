@@ -54,4 +54,12 @@ It consists of sections like home, about, gallery, blog, contact, finally about 
 To view the website, 
 * click [LensFlex-Utsav](https://github.com/Utsav9163/LensFlex-Utsav.git)
 or 
-*[ copy the link ](https://github.com/Utsav9163/LensFlex-Utsav.git)) paste it to your browser and load it. 
+*[ copy the link ](https://github.com/Utsav9163/LensFlex-Utsav.git)) paste it to your browser and load it.
+
+# 🛠 Built With
+
+* HTML
+* CSS
+* JAVASCRIPT
+
+This is my Third independent project creating a Responsive Photograpghy Portfolio Website using HTML, CSS and Javascript.
