@@ -46,3 +46,12 @@ It consists of sections like home, about, gallery, blog, contact, finally about 
 * A gallery,blog and a contact section followed by quick links of all the social media handles.
 * A footer section.
 * Developed first with the Mobile First methodology, then for desktop.
+* Compatible with all mobile devices and with a beautiful and pleasant user interface.
+* The website is filled with dummy text where needed.
+
+# 🚀 Setup/Installation Requirements
+
+To view the website, 
+* click [LensFlex-Utsav](https://github.com/Utsav9163/LensFlex-Utsav.git)
+or 
+*[ copy the link ](https://github.com/Utsav9163/LensFlex-Utsav.git)) paste it to your browser and load it. 
