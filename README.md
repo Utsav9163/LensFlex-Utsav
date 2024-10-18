@@ -40,3 +40,4 @@ It consists of sections like home, about, gallery, blog, contact, finally about 
 
 * A header section with the logo and navbar.
 * A Landing page.
+* An About section.
