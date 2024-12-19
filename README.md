@@ -56,9 +56,6 @@ This is my Third independent project creating a Responsive Photograpghy Portfoli
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](/issues).
 
-# 📝 License
-(c) [UTSAV](https://github.com/Utsav9163) 
-
 <h5 align="center">Connect with me!</h5>
 
   <p align="center">
